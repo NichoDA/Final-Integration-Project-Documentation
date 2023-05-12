@@ -50,7 +50,7 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ---
 
-## Images That To Help Understand Work
+## Images That Help Understand How it Work
 
 ### Plan
 ![Schematics Image](./setuo.PNG)
