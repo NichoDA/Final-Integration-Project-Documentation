@@ -51,10 +51,13 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ---
 
-## Images That Help the Reader Understand the Work
+## Images That To Help Understand Work
 
-![Schematics Image](https://example.com/schematics.png)
+#### Plan
+![Schematics Image](./setup.png)
 
+### Picture of Actual Wiring
+![Schematics Image](./led.png)
 ---
 
 ## Thoughts About Future Development
