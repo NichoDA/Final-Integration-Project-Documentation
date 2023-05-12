@@ -3,6 +3,7 @@
 ## Project Outline
 
 Ghost Runner
+
 • Graphics
   - A main character with animation using spritesheet
   - A ghost like enemy that changes direction based off which way it is moving
@@ -18,6 +19,7 @@ Ghost Runner
   - A led light that lights up if the player starts to run low on time
 • Gameplay 
   - Player attempts to run through 2d course with obstacles such as death pits, ghost enemies, limited lives, and a timer.
+  
 ---
 
 ## Description of the Project
