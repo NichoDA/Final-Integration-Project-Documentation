@@ -57,6 +57,7 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ### Picture of Actual Wiring
 ![Schematics Image](./led.png)
+
 ---
 
 ## Thoughts About Future Development
