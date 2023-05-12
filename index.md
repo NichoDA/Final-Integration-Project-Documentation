@@ -54,7 +54,7 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 ## Images That To Help Understand Work
 
 #### Plan
-![Schematics Image](./setup.png)
+![Schematics Image](./setuo.png)
 
 ### Picture of Actual Wiring
 ![Schematics Image](./led.png)
