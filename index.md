@@ -24,7 +24,7 @@
 
 ---
 
-## Schematics, Diagrams, or Other Images That Help the Reader Understand the Work
+## Images That Help the Reader Understand the Work
 
 ![Schematics Image](https://example.com/schematics.png)
 
