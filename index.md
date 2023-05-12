@@ -1,6 +1,9 @@
 # Final Integration Project Documentation
 
 ## Project Outline
+### First Image
+
+This is the first image in the project:
 
 ![Project Outline Image](https://example.com/project_outline.png)
 
