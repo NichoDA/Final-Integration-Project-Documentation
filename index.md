@@ -53,7 +53,7 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ## Images That To Help Understand Work
 
-#### Plan
+### Plan
 ![Schematics Image](./setuo.PNG)
 
 ### Picture of Actual Wiring
@@ -62,6 +62,8 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ## Thoughts About Future Development
 
-![Future Development Image](https://example.com/future_development.png)
+I really enjoyed making this project. In the future if I ever work on it, I want to add music that sounds better. I would also like to add an option to somehow kill the ghost enemies for more points. I could also make multiple levels as different game states, with new enemies and unique music/sound affects. 
+
+For an extreme challenge, adding some sort of backend and allowing for multiple people to play would be really cool.
 
 ---
