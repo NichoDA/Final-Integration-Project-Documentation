@@ -1,4 +1,5 @@
 # Final Integration Project Documentation
+Project Link: https://nichoda.github.io/CSC-2463-Assignments/JSAssignments/FinalProject/index.html
 
 ## Project Outline
 
@@ -30,18 +31,23 @@ This is a 2D platformer game similar to Mario. The goal is to reach the end of e
 
 ## Images of the Project
 
-### Title Screen 
+### Title State
 ![Title Image](./title.PNG)
+### Gameplay State
+![Gameplay Image](./Gameplay.PNG)
+### Game Over State
+![Game Over Image](./GameOver.PNG)
+### You Win State
+![You Win Image](./YouWin.PNG)
 
 ---
 
 ## Video Example of it Working
 
-### Screen Gameplay
-
-### Gameplay showing working joystick
-
-![Video Example Image]([https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKXig&ab_channel=NicholasDomingue))
+### Screen Gameplay:
+![Screen Gameplay](./ScreenGamplay.mkv)
+### Gameplay showing working joystick:
+https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKXig&ab_channel=NicholasDomingue
 
 ---
 
