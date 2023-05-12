@@ -62,8 +62,10 @@ https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKX
 
 ## Thoughts About Future Development
 
-I really enjoyed making this project. In the future if I ever work on it, I want to add music that sounds better. I would also like to add an option to somehow kill the ghost enemies for more points. I could also make multiple levels as different game states, with new enemies and unique music/sound affects. 
+I had a great time creating this project, and I'm already thinking about how to make it even better in the future. One improvement I'd like to make is upgrading the music to enhance the overall gaming experience. I also envision adding a feature where players can defeat the ghost enemies for extra points, making the game more engaging.
 
-For an extreme challenge, adding some sort of backend and allowing for multiple people to play would be really cool.
+To take the game to the next level, I plan to introduce multiple levels with new challenges, enemies, and unique sound effects that match each level's theme. Additionally, I'm excited about the possibility of implementing a backend system that would allow players to compete with each other from different devices.
+
+Overall, I'm looking forward to continuing the development of this project, and I'm eager to see where it takes me.
 
 ---
