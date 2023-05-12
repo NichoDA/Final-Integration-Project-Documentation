@@ -1,4 +1,3 @@
-# Final Integration Project Documentation
 Project Link: https://nichoda.github.io/CSC-2463-Assignments/JSAssignments/FinalProject/index.html
 
 ## Project Outline
