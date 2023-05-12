@@ -1,13 +1,37 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Nicholas Domingue</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione fuga animi vero, consectetur, quia dolorum esse dignissimos assumenda rem voluptatum quibusdam atque. Eius dolorem, voluptate aliquid soluta explicabo ipsum architecto.</p>
-    
-</body>
-</html>
+# Documentation may include:
+
+## Project Outline
+
+![Project Outline Image](https://example.com/project_outline.png)
+
+---
+
+## Narrative Description of the Project
+
+![Narrative Description Image](https://example.com/narrative_description.png)
+
+---
+
+## Images of the Project
+
+![Project Images Image](https://example.com/project_images.png)
+
+---
+
+## Video Example of it Working
+
+![Video Example Image](https://example.com/video_example.png)
+
+---
+
+## Schematics, Diagrams, or Other Images That Help the Reader Understand the Work
+
+![Schematics Image](https://example.com/schematics.png)
+
+---
+
+## Thoughts About Future Development
+
+![Future Development Image](https://example.com/future_development.png)
+
+---
