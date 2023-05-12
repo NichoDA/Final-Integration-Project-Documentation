@@ -1,29 +1,44 @@
 # Final Integration Project Documentation
 
 ## Project Outline
-### First Image
 
-This is the first image in the project:
-
-![Project Outline Image](https://example.com/project_outline.png)
-
+Ghost Runner
+• Graphics
+  - A main character with animation using spritesheet
+  - A ghost like enemy that changes direction based off which way it is moving
+  - 4 game states with different text and backgrounds
+  - The Playing game state will be a 2d side scrolling game, with platforms and a parallax scrolling background
+• Audio
+  - Each game state has custom made background music using Tone.js
+    - Uses unique parameters to make it sound 8-bit like 
+  - Each character action has a sound effect (From free website all under 3 seconds)
+    - Running, jumping, and getting hit
+• Physcial  
+  - A joystick that allows the character to move back and forth as well as jump if pressed.
+  - A led light that lights up if the player starts to run low on time
+• Gameplay 
+  - Player attempts to run through 2d course with obstacles such as death pits, ghost enemies, limited lives, and a timer.
 ---
 
-## Narrative Description of the Project
+## Description of the Project
 
-![Narrative Description Image](https://example.com/narrative_description.png)
+This is a 2D platformer game similar to Mario. The goal is to reach the end of each level by jumping and using platforms while avoiding deadly pits and ghosts. Players can move using either the W, A, and D keys, a joystick and button, or a combination of both. Falling into a death trap results in immediate failure, but players have three chances when facing ghosts. There is also a time limit, and when it drops below 20 seconds, an Arduino LED activates to warn the player of low time. Your score is calculated based on how far you progress through the level, with bonus points awarded for completing the entire level. The more hearts and time remaining at the end of the level, the more bonus points you receive.
 
 ---
 
 ## Images of the Project
 
-![Project Images Image](https://example.com/project_images.png)
+
 
 ---
 
 ## Video Example of it Working
 
-![Video Example Image](https://example.com/video_example.png)
+### Screen Gameplay
+
+### Gameplay showing working joystick
+
+![Video Example Image]([https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKXig&ab_channel=NicholasDomingue))
 
 ---
 
