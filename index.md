@@ -30,7 +30,8 @@ This is a 2D platformer game similar to Mario. The goal is to reach the end of e
 
 ## Images of the Project
 
-
+### Title Screen 
+![Title Image](./title.PNG)
 
 ---
 
