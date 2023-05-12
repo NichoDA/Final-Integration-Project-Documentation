@@ -45,7 +45,7 @@ This is a 2D platformer game similar to Mario. The goal is to reach the end of e
 ## Video Example of it Working
 
 ### Screen Gameplay:
-![Screen Gameplay](./ScreenGamplay.mkv)
+https://www.youtube.com/watch?v=yLoTVKl_aMQ
 ### Gameplay showing working joystick:
 https://example.com/video_example.png](https://www.youtube.com/watch?v=00Ni4RLKXig&ab_channel=NicholasDomingue
 
