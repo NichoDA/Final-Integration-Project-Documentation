@@ -4,20 +4,20 @@
 
 Ghost Runner
 
-• Graphics
+- Graphics
   - A main character with animation using spritesheet
   - A ghost like enemy that changes direction based off which way it is moving
   - 4 game states with different text and backgrounds
   - The Playing game state will be a 2d side scrolling game, with platforms and a parallax scrolling background
-• Audio
+- Audio
   - Each game state has custom made background music using Tone.js
     - Uses unique parameters to make it sound 8-bit like 
   - Each character action has a sound effect (From free website all under 3 seconds)
     - Running, jumping, and getting hit
-• Physcial  
+- Physcial  
   - A joystick that allows the character to move back and forth as well as jump if pressed.
   - A led light that lights up if the player starts to run low on time
-• Gameplay 
+- Gameplay 
   - Player attempts to run through 2d course with obstacles such as death pits, ghost enemies, limited lives, and a timer.
   
 ---
